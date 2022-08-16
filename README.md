@@ -1,2 +1,4 @@
 # Wireless-RGB-LEDs
-STM32 Based PWM-DMA Operations with ROboRemo as Front end
+PWM-DMA based STM32 implementation to drive WS2812 LEDs
+ROboRemo as Front end
+Bluetooth Module is HC05
